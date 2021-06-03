@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent new play-house song, call'd The bonny grey-ey'd morn or Jockey rous'd with love</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22734</idno><idno type="EEBO-CITATION">99829334</idno>
+  <idno type="VID">198338</idno>
+  <idno type="EEBO-PROQUEST">2240859411</idno>
+  
+            <idno type="STC">Wing E3800B</idno>
+            <idno type="PROQUEST">99829334</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829334e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:668)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent new play-house song, call'd The bonny grey-ey'd morn or Jockey rous'd with love</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: The caping trade.</note>
+                  <note>Verse - "The bonny greyey'd morn began to peep,".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:198338:1"/>
+            <head>An excellent new PLAY-HOUSE SONG, Call'd <hi>The bonny Grey-Ey'd Morn</hi> Or Jockey <hi>Rous'd with Love.</hi>
+            </head>
+            <lg>
+               <l>THe bonny grey Ey'd morn began to peep,</l>
+               <l>When <hi>Jockey</hi> rous'd with Love came blith<g ref="char:EOLhyphen"/>ly on</l>
+               <l>And I who wishing lay depriv'd of sleep,</l>
+               <l>Abhor'd the lazy hours that slow did run.</l>
+               <l>But muckle were my joy when in my view,</l>
+               <l>
+                  <hi>I</hi> from the window spy'd my only dear.</l>
+               <l>
+                  <hi>I</hi> took the wings of love, and to to him flew,</l>
+               <l>For <hi>I</hi> had fancy'd all my Heav'n was there.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon my bosom <hi>Jocky</hi> laid his head</l>
+               <l>And sighing told me pretty tales of Love</l>
+               <l>My yeilding Heart at every word he said,</l>
+               <l>Did flutter up and down and strangely move:</l>
+               <l>He sighing kiss'd my Hand and vow'd and swore</l>
+               <l>That <hi>I</hi> had ore his Heart a Conquest gain'd,</l>
+               <l>Then blushing beg that <hi>I</hi> would grant him more</l>
+               <l>Which he alas too soon, too soon obtain'd</l>
+            </lg>
+            <lg>
+               <l>Not that <hi>I</hi> do repent <hi>I</hi> did comply</l>
+               <l>But this <hi>I</hi> needs must own, my yeilding Heart</l>
+               <l>Was quickly overcome by <hi>Jockys</hi> Eye</l>
+               <l>Which gave a deeper wound then <hi>Cupids</hi> dart,</l>
+               <l>His Cheeks were Cherry red his Lips the same</l>
+               <l>His Tongue so many Charms could still express</l>
+               <l>That e'ry word he said did raise new Flame</l>
+               <l>And kindled, kindled Fire in my breast.</l>
+            </lg>
+            <lg>
+               <l>My <hi>Jocky</hi> does a thousand ways beside</l>
+               <l>Express himself in tender love to me,</l>
+               <l>With arms about waist he sighing cry'd</l>
+               <l>Oh give me thy consent or Ise mun dee:</l>
+               <l>Then with a gentle Kiss does beg again</l>
+               <l>That his poor wounded Heart <hi>I</hi> would but cure</l>
+               <l>Not thinking that I felt his love sick pain,</l>
+               <l>For <hi>I</hi> alas was his, was his before.</l>
+            </lg>
+            <lg>
+               <l>And now <hi>I</hi> could no longer hide my Pain,</l>
+               <l>But let my dearest <hi>Jocky</hi> know my Heart,</l>
+               <l>Oh how he hug'd me in his arms again,</l>
+               <l>And every Kiss he gave did ease my Smart.</l>
+               <l>Then vowing o're and o're betwixt each Kiss</l>
+               <l>He constant would remain while life did last,</l>
+               <l>Now tell me lovers, where's the hurt of this,</l>
+               <l>For to enjoy when that the Knots ty'd fast.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="song">
+            <head>The CAPING TRADE</head>
+            <opener>To its own proper Tune.</opener>
+            <lg>
+               <l>COme all brave Boyes o'th' <hi>Caping▪</hi>
+               </l>
+               <l>This staitly <hi>Vessel</hi> we'll invade,</l>
+               <l>We'll pin her <hi>Cargo</hi> to her <hi>Load,</hi>
+               </l>
+               <l>No Quarters we'll afford her:</l>
+               <l>But standing Stout is still brave Fate,</l>
+               <l>Altho our <hi>Seas</hi> be rough of late.</l>
+               <l>Come <hi>Helm-a-lee</hi> and <hi>low your Top.</hi>
+               </l>
+               <l>
+                  <hi>I</hi>'le lay my Life <hi>I</hi>'ll board her.</l>
+            </lg>
+            <lg>
+               <l>The first Attempt may prove in vain,</l>
+               <l>Altho it be neither Blot not Stain;</l>
+               <l>For the Brave may lose as well as gain,</l>
+               <l>We'll do it with Bravado's:</l>
+               <l>We'll wheel about, and undertake</l>
+               <l>To bord her under <hi>Quarter-deck,</hi>
+               </l>
+               <l>With <hi>Blunderbush</hi> and ported <hi>Pick</hi>
+               </l>
+               <l>And with two <hi>Hand Granados,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Cheer up anone, your mad to think</l>
+               <l>That your in danger for to Sink.</l>
+               <l>But with Broadside closs to her clink,</l>
+               <l>Deal Thumps and <hi>turn all over;</hi>
+               </l>
+               <l>Your <hi>Bline</hi> may split upon her Starn,</l>
+               <l>If you receive no greater Harm▪</l>
+               <l>Then a Cup of Brandy, (your Hearts being warm</l>
+               <l>will soon that loss recover,</l>
+            </lg>
+            <lg>
+               <l>I have been at the <hi>Caping Trade.</hi>
+               </l>
+               <l>And Forraign <hi>Blood I</hi> oft have shed;</l>
+               <l>But it is true what of Old was said,</l>
+               <l>
+                  <hi>True honours got by Danger.</hi>
+               </l>
+               <l>I'll stay at home put up my Pick,</l>
+               <l>No Prizes more will to me stick;</l>
+               <l>For a stately <hi>Vessels</hi> beat me back,</l>
+               <l>I'm sure's was in all <hi>England.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Declining dayes comes one a pace,</l>
+               <l>How dare <hi>I</hi> look my Enemy in th' Face,</l>
+               <l>When <hi>I</hi> came off with great Disgrace;</l>
+               <l>For lake of store of <hi>Powder?</hi>
+               </l>
+               <l>My <hi>Ammunitions</hi> spent and gone,</l>
+               <l>My little <hi>Guns</hi> scarce half foot long,</l>
+               <l>And two little <hi>Balls</hi> are scarce worth one,</l>
+               <l>
+                  <hi>So I</hi>'m no more for <hi>Boarding,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>All you that <hi>Caping</hi> take in hand.</l>
+               <l>See that your <hi>Men</hi> they stout do stand,</l>
+               <l>The <hi>Souldiers</hi> all at your Command,</l>
+               <l>To fire at once <hi>make ready,</hi>
+               </l>
+               <l>Stand to it then for ever more,</l>
+               <l>See that your Loss be not before;</l>
+               <l>Stile first a <hi>Gun</hi> to the <hi>Cabine</hi> Door;</l>
+               <l>
+                  <hi>Faint heart ne'er wan fair Lady,</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
